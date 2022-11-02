@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shimaaorabi
+- 👀 I’m interested in ML & DL & CV & NLP
+- 🌱 I’m currently learning Machine learning
+- 📫 How to reach me shimaa2orabi@gmail.com
